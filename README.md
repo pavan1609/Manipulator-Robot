@@ -33,5 +33,5 @@ The primary objective was to control a LEGO MINDSTORMS EV3-based robotic arm rem
 
 ## References
 
-- MATLAB code and working video: https://drive.google.com/file/d/16Guq8lO1fHBcwLgfZrxdOx4QjjDwkUYl/view?usp=sharing
+- Working video: https://drive.google.com/file/d/16Guq8lO1fHBcwLgfZrxdOx4QjjDwkUYl/view?usp=sharing
 
